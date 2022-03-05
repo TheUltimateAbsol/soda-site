@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "soda.wonder-tag.online",
     "description": "",
-    "home_page_url": "https://theultimateabsol.github.io/soda-site",
-    "feed_url": "https://theultimateabsol.github.io/soda-site/feed.json",
+    "home_page_url": "https://soda.wonder-tag.online",
+    "feed_url": "https://soda.wonder-tag.online/feed.json",
     "user_comment": "",
-    "icon": "https://theultimateabsol.github.io/soda-site/media/website/soda-2.png",
+    "icon": "https://soda.wonder-tag.online/media/website/soda-2.png",
     "author": {
         "name": "Brandon Ellis"
     },
     "items": [
         {
-            "id": "https://theultimateabsol.github.io/soda-site/bedfords-root-beer.html",
-            "url": "https://theultimateabsol.github.io/soda-site/bedfords-root-beer.html",
+            "id": "https://soda.wonder-tag.online/bedfords-root-beer.html",
+            "url": "https://soda.wonder-tag.online/bedfords-root-beer.html",
             "title": "Bedford&#x27;s Root Beer",
             "summary": " This one has a classic rich root beer taste, but it's a little bit lighter. There appears to be&hellip;",
             "content_html": "\n  <p>\n    This one has a classic rich root beer taste, but it's a little bit lighter. There appears to be a very faint citrus aftertaste and it's a little on the sweet side\n  </p>",
-            "image": "https://theultimateabsol.github.io/soda-site/media/posts/1/bedford_rootbeer-4.jpg",
+            "image": "https://soda.wonder-tag.online/media/posts/1/bedford_rootbeer-4.jpg",
             "author": {
                 "name": "Brandon Ellis"
             },
