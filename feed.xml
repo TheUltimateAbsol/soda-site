@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>soda.wonder-tag.online</title>
+    <link href="https://theultimateabsol.github.io/soda-site/feed.xml" rel="self" />
+    <link href="https://theultimateabsol.github.io/soda-site" />
+    <updated>2022-03-05T17:39:34-05:00</updated>
+    <author>
+        <name>Brandon Ellis</name>
+    </author>
+    <id>https://theultimateabsol.github.io/soda-site</id>
+
+    <entry>
+        <title>Bedford&#x27;s Root Beer</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://theultimateabsol.github.io/soda-site/bedfords-root-beer.html"/>
+        <id>https://theultimateabsol.github.io/soda-site/bedfords-root-beer.html</id>
+
+        <updated>2022-03-05T17:39:34-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://theultimateabsol.github.io/soda-site/media/posts/1/bedford_rootbeer-4.jpg" alt="" />
+                     This one has a classic rich root beer taste, but it's a little bit lighter. There appears to be&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://theultimateabsol.github.io/soda-site/media/posts/1/bedford_rootbeer-4.jpg" alt="" />
+                
+  <p>
+    This one has a classic rich root beer taste, but it's a little bit lighter. There appears to be a very faint citrus aftertaste and it's a little on the sweet side
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
