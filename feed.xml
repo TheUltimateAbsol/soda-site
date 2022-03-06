@@ -3,12 +3,34 @@
     <title>soda.wonder-tag.online</title>
     <link href="https://soda.wonder-tag.online/feed.xml" rel="self" />
     <link href="https://soda.wonder-tag.online" />
-    <updated>2022-03-05T17:39:34-05:00</updated>
+    <updated>2022-03-06T13:03:40-05:00</updated>
     <author>
         <name>Brandon Ellis</name>
     </author>
     <id>https://soda.wonder-tag.online</id>
 
+    <entry>
+        <title>Triple XXX Root Beer</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/triple-xxx-root-beer.html"/>
+        <id>https://soda.wonder-tag.online/triple-xxx-root-beer.html</id>
+
+        <updated>2022-03-06T13:03:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/2/triple_xxx_rootbeer.jpg" alt="" />
+                    This one is almost identical to Old Dominion Root Beer, though it seems to steer more towards the sugary/honey flavor.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/2/triple_xxx_rootbeer.jpg" alt="" />
+                <p>This one is almost identical to Old Dominion Root Beer, though it seems to steer more towards the sugary/honey flavor. Very rich.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bedford&#x27;s Root Beer</title>
         <author>
