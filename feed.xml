@@ -3,12 +3,34 @@
     <title>soda.wonder-tag.online</title>
     <link href="https://soda.wonder-tag.online/feed.xml" rel="self" />
     <link href="https://soda.wonder-tag.online" />
-    <updated>2022-03-06T13:03:40-05:00</updated>
+    <updated>2022-03-11T21:53:41-05:00</updated>
     <author>
         <name>Brandon Ellis</name>
     </author>
     <id>https://soda.wonder-tag.online</id>
 
+    <entry>
+        <title>Kutztown Root Beer</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/kutztown-root-beer.html"/>
+        <id>https://soda.wonder-tag.online/kutztown-root-beer.html</id>
+
+        <updated>2022-03-11T21:53:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/3/kutztown_root_beer.jpg" alt="" />
+                    I had ice with this one but it tastes like water. Flavor was light and normal. You'd be better off&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/3/kutztown_root_beer.jpg" alt="" />
+                <p>I had ice with this one but it tastes like water. Flavor was light and normal. You'd be better off just getting the corn syrup stuff out of the plastic bottles.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Triple XXX Root Beer</title>
         <author>
@@ -39,7 +61,7 @@
         <link href="https://soda.wonder-tag.online/bedfords-root-beer.html"/>
         <id>https://soda.wonder-tag.online/bedfords-root-beer.html</id>
 
-        <updated>2022-03-05T17:39:34-05:00</updated>
+        <updated>2022-03-11T21:53:03-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://soda.wonder-tag.online/media/posts/1/bedford_rootbeer-4.jpg" alt="" />

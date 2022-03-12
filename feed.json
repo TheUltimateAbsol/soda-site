@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://soda.wonder-tag.online/kutztown-root-beer.html",
+            "url": "https://soda.wonder-tag.online/kutztown-root-beer.html",
+            "title": "Kutztown Root Beer",
+            "summary": "I had ice with this one but it tastes like water. Flavor was light and normal. You'd be better off&hellip;",
+            "content_html": "<p>I had ice with this one but it tastes like water. Flavor was light and normal. You'd be better off just getting the corn syrup stuff out of the plastic bottles.</p>",
+            "image": "https://soda.wonder-tag.online/media/posts/3/kutztown_root_beer.jpg",
+            "author": {
+                "name": "Brandon Ellis"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-11T21:52:54-05:00",
+            "date_modified": "2022-03-11T21:53:41-05:00"
+        },
+        {
             "id": "https://soda.wonder-tag.online/triple-xxx-root-beer.html",
             "url": "https://soda.wonder-tag.online/triple-xxx-root-beer.html",
             "title": "Triple XXX Root Beer",
@@ -38,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2022-03-05T17:25:45-05:00",
-            "date_modified": "2022-03-05T17:39:34-05:00"
+            "date_modified": "2022-03-11T21:53:03-05:00"
         }
     ]
 }
