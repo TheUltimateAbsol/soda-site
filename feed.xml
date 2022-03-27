@@ -3,12 +3,100 @@
     <title>soda.wonder-tag.online</title>
     <link href="https://soda.wonder-tag.online/feed.xml" rel="self" />
     <link href="https://soda.wonder-tag.online" />
-    <updated>2022-03-11T21:53:41-05:00</updated>
+    <updated>2022-03-27T12:27:16-04:00</updated>
     <author>
         <name>Brandon Ellis</name>
     </author>
     <id>https://soda.wonder-tag.online</id>
 
+    <entry>
+        <title>Pepsi Kick</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/pepsi-kick.html"/>
+        <id>https://soda.wonder-tag.online/pepsi-kick.html</id>
+
+        <updated>2022-03-27T12:27:16-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/7/pepsi_kick.jpg" alt="" />
+                    Tastes like regular pepsi, but somehow worse
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/7/pepsi_kick.jpg" alt="" />
+                <p>Tastes like regular pepsi, but somehow worse</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Chaparritas Orange</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/chaparritas-orange.html"/>
+        <id>https://soda.wonder-tag.online/chaparritas-orange.html</id>
+
+        <updated>2022-03-27T12:26:37-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/6/chaparritas_orange.jpg" alt="" />
+                    not soda. sugar water.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/6/chaparritas_orange.jpg" alt="" />
+                <p>not soda. sugar water.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cristal Strawberry</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/cristal-strawberry.html"/>
+        <id>https://soda.wonder-tag.online/cristal-strawberry.html</id>
+
+        <updated>2022-03-27T12:26:01-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/5/cristal_strawberry.jpg" alt="" />
+                    Like your typical strawberry soda, but less sugary and has a brighter taste. Similar to Faygo Redpop somehow.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/5/cristal_strawberry.jpg" alt="" />
+                <p>Like your typical strawberry soda, but less sugary and has a brighter taste. Similar to Faygo Redpop somehow.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cristal</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/cristal.html"/>
+        <id>https://soda.wonder-tag.online/cristal.html</id>
+
+        <updated>2022-03-27T12:25:10-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/4/cristal.jpg" alt="" />
+                    Cross between birch beer and root beer, heavy on the birch side. Nice taste.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/4/cristal.jpg" alt="" />
+                <p>Cross between birch beer and root beer, heavy on the birch side. Nice taste.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kutztown Root Beer</title>
         <author>
