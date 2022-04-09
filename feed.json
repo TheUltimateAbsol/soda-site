@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://soda.wonder-tag.online/brownie-caramel-cream-root-beer.html",
+            "url": "https://soda.wonder-tag.online/brownie-caramel-cream-root-beer.html",
+            "title": "Brownie Caramel Cream Root Beer",
+            "summary": "They weren't lying on the caramel part. It definitely has that flavor on it, but the way it comes together&hellip;",
+            "content_html": "<p>They weren't lying on the caramel part. It definitely has that flavor on it, but the way it comes together is a bit chemical-taste heavy. Definitely would taste better cold than lukewarm. The flavor is a little deep, but not rich. Goes together with brownies.</p>\n<p>Not something I could find myself drinking every day, but <em>interesting</em> regardless</p>",
+            "image": "https://soda.wonder-tag.online/media/posts/9/brownie_caramel_cream_root_beer.jpg",
+            "author": {
+                "name": "Brandon Ellis"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-09T10:11:49-04:00",
+            "date_modified": "2022-04-09T10:11:49-04:00"
+        },
+        {
             "id": "https://soda.wonder-tag.online/red-ribbon-hombrew-style-root-beer.html",
             "url": "https://soda.wonder-tag.online/red-ribbon-hombrew-style-root-beer.html",
             "title": "Red Ribbon Hombrew Style Root Beer",
