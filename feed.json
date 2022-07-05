@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://soda.wonder-tag.online/green-river-soda.html",
+            "url": "https://soda.wonder-tag.online/green-river-soda.html",
+            "title": "Green River Soda",
+            "summary": "It's a very gingery ale with citrus flavors, lime (I think?) At least it's not corn flavor",
+            "content_html": "<p>It's a very gingery ale with citrus flavors, lime (I think?)</p>\n<p>At least it's not corn flavor</p>",
+            "image": "https://soda.wonder-tag.online/media/posts/11/green_river.jpg",
+            "author": {
+                "name": "Brandon Ellis"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-05T12:25:29-04:00",
+            "date_modified": "2022-07-05T12:25:29-04:00"
+        },
+        {
             "id": "https://soda.wonder-tag.online/old-red-eye-root-beer.html",
             "url": "https://soda.wonder-tag.online/old-red-eye-root-beer.html",
             "title": "Old Red Eye Root Beer",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-03-06T13:03:13-05:00",
             "date_modified": "2022-03-06T13:03:40-05:00"
-        },
-        {
-            "id": "https://soda.wonder-tag.online/bedfords-root-beer.html",
-            "url": "https://soda.wonder-tag.online/bedfords-root-beer.html",
-            "title": "Bedford&#x27;s Root Beer",
-            "summary": " This one has a classic rich root beer taste, but it's a little bit lighter. There appears to be&hellip;",
-            "content_html": "\n  <p>\n    This one has a classic rich root beer taste, but it's a little bit lighter. There appears to be a very faint citrus aftertaste and it's a little on the sweet side\n  </p>",
-            "image": "https://soda.wonder-tag.online/media/posts/1/bedford_rootbeer-4.jpg",
-            "author": {
-                "name": "Brandon Ellis"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-03-05T17:25:45-05:00",
-            "date_modified": "2022-03-11T21:53:03-05:00"
         }
     ]
 }

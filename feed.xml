@@ -3,12 +3,35 @@
     <title>soda.wonder-tag.online</title>
     <link href="https://soda.wonder-tag.online/feed.xml" rel="self" />
     <link href="https://soda.wonder-tag.online" />
-    <updated>2022-04-17T16:56:21-04:00</updated>
+    <updated>2022-07-05T12:25:29-04:00</updated>
     <author>
         <name>Brandon Ellis</name>
     </author>
     <id>https://soda.wonder-tag.online</id>
 
+    <entry>
+        <title>Green River Soda</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/green-river-soda.html"/>
+        <id>https://soda.wonder-tag.online/green-river-soda.html</id>
+
+        <updated>2022-07-05T12:25:29-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/11/green_river.jpg" alt="" />
+                    It's a very gingery ale with citrus flavors, lime (I think?) At least it's not corn flavor
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/11/green_river.jpg" alt="" />
+                <p>It's a very gingery ale with citrus flavors, lime (I think?)</p>
+<p>At least it's not corn flavor</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Old Red Eye Root Beer</title>
         <author>
@@ -206,31 +229,6 @@
             <![CDATA[
                     <img src="https://soda.wonder-tag.online/media/posts/2/triple_xxx_rootbeer.jpg" alt="" />
                 <p>This one is almost identical to Old Dominion Root Beer, though it seems to steer more towards the sugary/honey flavor. Very rich.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bedford&#x27;s Root Beer</title>
-        <author>
-            <name>Brandon Ellis</name>
-        </author>
-        <link href="https://soda.wonder-tag.online/bedfords-root-beer.html"/>
-        <id>https://soda.wonder-tag.online/bedfords-root-beer.html</id>
-
-        <updated>2022-03-11T21:53:03-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://soda.wonder-tag.online/media/posts/1/bedford_rootbeer-4.jpg" alt="" />
-                     This one has a classic rich root beer taste, but it's a little bit lighter. There appears to be&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://soda.wonder-tag.online/media/posts/1/bedford_rootbeer-4.jpg" alt="" />
-                
-  <p>
-    This one has a classic rich root beer taste, but it's a little bit lighter. There appears to be a very faint citrus aftertaste and it's a little on the sweet side
-  </p>
             ]]>
         </content>
     </entry>
