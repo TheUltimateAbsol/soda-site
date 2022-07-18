@@ -3,12 +3,34 @@
     <title>soda.wonder-tag.online</title>
     <link href="https://soda.wonder-tag.online/feed.xml" rel="self" />
     <link href="https://soda.wonder-tag.online" />
-    <updated>2022-07-17T19:47:46-04:00</updated>
+    <updated>2022-07-17T22:49:42-04:00</updated>
     <author>
         <name>Brandon Ellis</name>
     </author>
     <id>https://soda.wonder-tag.online</id>
 
+    <entry>
+        <title>Dad&#x27;s Root Beer</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/dads-root-beer.html"/>
+        <id>https://soda.wonder-tag.online/dads-root-beer.html</id>
+
+        <updated>2022-07-17T22:49:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/13/dads_root_beer.jpg" alt="" />
+                    Worse than generic Diet A&amp;W seriously why do they even try
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/13/dads_root_beer.jpg" alt="" />
+                <p>Worse than generic Diet A&amp;W seriously why do they even try</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bubble Up</title>
         <author>
@@ -207,28 +229,6 @@
             <![CDATA[
                     <img src="https://soda.wonder-tag.online/media/posts/4/cristal.jpg" alt="" />
                 <p>Cross between birch beer and root beer, heavy on the birch side. Nice taste.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Kutztown Root Beer</title>
-        <author>
-            <name>Brandon Ellis</name>
-        </author>
-        <link href="https://soda.wonder-tag.online/kutztown-root-beer.html"/>
-        <id>https://soda.wonder-tag.online/kutztown-root-beer.html</id>
-
-        <updated>2022-03-11T21:53:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://soda.wonder-tag.online/media/posts/3/kutztown_root_beer.jpg" alt="" />
-                    I had ice with this one but it tastes like water. Flavor was light and normal. You'd be better off&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://soda.wonder-tag.online/media/posts/3/kutztown_root_beer.jpg" alt="" />
-                <p>I had ice with this one but it tastes like water. Flavor was light and normal. You'd be better off just getting the corn syrup stuff out of the plastic bottles.</p>
             ]]>
         </content>
     </entry>
