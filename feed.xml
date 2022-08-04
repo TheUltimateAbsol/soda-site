@@ -3,12 +3,100 @@
     <title>soda.wonder-tag.online</title>
     <link href="https://soda.wonder-tag.online/feed.xml" rel="self" />
     <link href="https://soda.wonder-tag.online" />
-    <updated>2022-07-17T22:49:42-04:00</updated>
+    <updated>2022-08-04T19:18:41-04:00</updated>
     <author>
         <name>Brandon Ellis</name>
     </author>
     <id>https://soda.wonder-tag.online</id>
 
+    <entry>
+        <title>Frostop Root Beer</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/frostop-root-beer.html"/>
+        <id>https://soda.wonder-tag.online/frostop-root-beer.html</id>
+
+        <updated>2022-08-04T19:18:41-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/17/frostop_root_beer.jpg" alt="" />
+                    mid
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/17/frostop_root_beer.jpg" alt="" />
+                <p>mid</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Death Valley Root Beer</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/death-valley-root-beer.html"/>
+        <id>https://soda.wonder-tag.online/death-valley-root-beer.html</id>
+
+        <updated>2022-08-04T19:18:22-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/16/death_valley_root_beer.jpg" alt="" />
+                    Lots of flavor like a Sperchers, lots of foam.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/16/death_valley_root_beer.jpg" alt="" />
+                <p>Lots of flavor like a Sperchers, lots of foam.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>O-So Grape</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/o-so-grape.html"/>
+        <id>https://soda.wonder-tag.online/o-so-grape.html</id>
+
+        <updated>2022-08-04T19:17:41-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/15/o_so_grape.jpg" alt="" />
+                    10/10 buy their entire stock
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/15/o_so_grape.jpg" alt="" />
+                <p>10/10 buy their entire stock</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>O-So Strawberry</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/o-so-strawberry.html"/>
+        <id>https://soda.wonder-tag.online/o-so-strawberry.html</id>
+
+        <updated>2022-08-04T19:17:20-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/14/o_so_strawberry.jpg" alt="" />
+                    Best strawberry ever, 10/10, buy their entire stock
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/14/o_so_strawberry.jpg" alt="" />
+                <p>Best strawberry ever, 10/10, buy their entire stock</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dad&#x27;s Root Beer</title>
         <author>
@@ -141,94 +229,6 @@
                     <img src="https://soda.wonder-tag.online/media/posts/8/red_ribbon_root_beer.jpg" alt="" />
                 <p>Had without ice, tasted a bit like water. But did not have a seltzer taste that you'd get from a soda that lacks syrup. Very light on sugar. Flavor profile was "Low", but not "Rich". You could taste more of the metalic and citrussy flavors that would otherwise be obscured by sugar.</p>
 <p>Definitely honest on the "homebrew style" lol.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pepsi Kick</title>
-        <author>
-            <name>Brandon Ellis</name>
-        </author>
-        <link href="https://soda.wonder-tag.online/pepsi-kick.html"/>
-        <id>https://soda.wonder-tag.online/pepsi-kick.html</id>
-
-        <updated>2022-03-27T12:27:16-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://soda.wonder-tag.online/media/posts/7/pepsi_kick.jpg" alt="" />
-                    Tastes like regular pepsi, but somehow worse
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://soda.wonder-tag.online/media/posts/7/pepsi_kick.jpg" alt="" />
-                <p>Tastes like regular pepsi, but somehow worse</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Chaparritas Orange</title>
-        <author>
-            <name>Brandon Ellis</name>
-        </author>
-        <link href="https://soda.wonder-tag.online/chaparritas-orange.html"/>
-        <id>https://soda.wonder-tag.online/chaparritas-orange.html</id>
-
-        <updated>2022-03-27T12:26:37-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://soda.wonder-tag.online/media/posts/6/chaparritas_orange.jpg" alt="" />
-                    not soda. sugar water.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://soda.wonder-tag.online/media/posts/6/chaparritas_orange.jpg" alt="" />
-                <p>not soda. sugar water.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cristal Strawberry</title>
-        <author>
-            <name>Brandon Ellis</name>
-        </author>
-        <link href="https://soda.wonder-tag.online/cristal-strawberry.html"/>
-        <id>https://soda.wonder-tag.online/cristal-strawberry.html</id>
-
-        <updated>2022-03-27T12:26:01-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://soda.wonder-tag.online/media/posts/5/cristal_strawberry.jpg" alt="" />
-                    Like your typical strawberry soda, but less sugary and has a brighter taste. Similar to Faygo Redpop somehow.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://soda.wonder-tag.online/media/posts/5/cristal_strawberry.jpg" alt="" />
-                <p>Like your typical strawberry soda, but less sugary and has a brighter taste. Similar to Faygo Redpop somehow.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cristal</title>
-        <author>
-            <name>Brandon Ellis</name>
-        </author>
-        <link href="https://soda.wonder-tag.online/cristal.html"/>
-        <id>https://soda.wonder-tag.online/cristal.html</id>
-
-        <updated>2022-03-27T12:25:10-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://soda.wonder-tag.online/media/posts/4/cristal.jpg" alt="" />
-                    Cross between birch beer and root beer, heavy on the birch side. Nice taste.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://soda.wonder-tag.online/media/posts/4/cristal.jpg" alt="" />
-                <p>Cross between birch beer and root beer, heavy on the birch side. Nice taste.</p>
             ]]>
         </content>
     </entry>
