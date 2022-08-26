@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://soda.wonder-tag.online/red-arrow-root-beer.html",
+            "url": "https://soda.wonder-tag.online/red-arrow-root-beer.html",
+            "title": "Red Arrow Root Beer",
+            "summary": "good",
+            "content_html": "<p>good</p>",
+            "image": "https://soda.wonder-tag.online/media/posts/18/red_arrow_root_beer.jpg",
+            "author": {
+                "name": "Brandon Ellis"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-25T23:32:45-04:00",
+            "date_modified": "2022-08-25T23:32:45-04:00"
+        },
+        {
             "id": "https://soda.wonder-tag.online/frostop-root-beer.html",
             "url": "https://soda.wonder-tag.online/frostop-root-beer.html",
             "title": "Frostop Root Beer",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-04-09T10:11:49-04:00",
             "date_modified": "2022-04-09T10:11:49-04:00"
-        },
-        {
-            "id": "https://soda.wonder-tag.online/red-ribbon-hombrew-style-root-beer.html",
-            "url": "https://soda.wonder-tag.online/red-ribbon-hombrew-style-root-beer.html",
-            "title": "Red Ribbon Hombrew Style Root Beer",
-            "summary": "Had without ice, tasted a bit like water. But did not have a seltzer taste that you'd get from a&hellip;",
-            "content_html": "<p>Had without ice, tasted a bit like water. But did not have a seltzer taste that you'd get from a soda that lacks syrup. Very light on sugar. Flavor profile was \"Low\", but not \"Rich\". You could taste more of the metalic and citrussy flavors that would otherwise be obscured by sugar.</p>\n<p>Definitely honest on the \"homebrew style\" lol.</p>",
-            "image": "https://soda.wonder-tag.online/media/posts/8/red_ribbon_root_beer.jpg",
-            "author": {
-                "name": "Brandon Ellis"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-02T06:18:43-04:00",
-            "date_modified": "2022-04-02T06:20:26-04:00"
         }
     ]
 }

@@ -3,12 +3,34 @@
     <title>soda.wonder-tag.online</title>
     <link href="https://soda.wonder-tag.online/feed.xml" rel="self" />
     <link href="https://soda.wonder-tag.online" />
-    <updated>2022-08-04T19:18:41-04:00</updated>
+    <updated>2022-08-25T23:32:45-04:00</updated>
     <author>
         <name>Brandon Ellis</name>
     </author>
     <id>https://soda.wonder-tag.online</id>
 
+    <entry>
+        <title>Red Arrow Root Beer</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://soda.wonder-tag.online/red-arrow-root-beer.html"/>
+        <id>https://soda.wonder-tag.online/red-arrow-root-beer.html</id>
+
+        <updated>2022-08-25T23:32:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://soda.wonder-tag.online/media/posts/18/red_arrow_root_beer.jpg" alt="" />
+                    good
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://soda.wonder-tag.online/media/posts/18/red_arrow_root_beer.jpg" alt="" />
+                <p>good</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Frostop Root Beer</title>
         <author>
@@ -206,29 +228,6 @@
                     <img src="https://soda.wonder-tag.online/media/posts/9/brownie_caramel_cream_root_beer.jpg" alt="" />
                 <p>They weren't lying on the caramel part. It definitely has that flavor on it, but the way it comes together is a bit chemical-taste heavy. Definitely would taste better cold than lukewarm. The flavor is a little deep, but not rich. Goes together with brownies.</p>
 <p>Not something I could find myself drinking every day, but <em>interesting</em> regardless</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Red Ribbon Hombrew Style Root Beer</title>
-        <author>
-            <name>Brandon Ellis</name>
-        </author>
-        <link href="https://soda.wonder-tag.online/red-ribbon-hombrew-style-root-beer.html"/>
-        <id>https://soda.wonder-tag.online/red-ribbon-hombrew-style-root-beer.html</id>
-
-        <updated>2022-04-02T06:20:26-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://soda.wonder-tag.online/media/posts/8/red_ribbon_root_beer.jpg" alt="" />
-                    Had without ice, tasted a bit like water. But did not have a seltzer taste that you'd get from a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://soda.wonder-tag.online/media/posts/8/red_ribbon_root_beer.jpg" alt="" />
-                <p>Had without ice, tasted a bit like water. But did not have a seltzer taste that you'd get from a soda that lacks syrup. Very light on sugar. Flavor profile was "Low", but not "Rich". You could taste more of the metalic and citrussy flavors that would otherwise be obscured by sugar.</p>
-<p>Definitely honest on the "homebrew style" lol.</p>
             ]]>
         </content>
     </entry>
